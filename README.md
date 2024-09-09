@@ -1,4 +1,4 @@
-# Sterling-E-Commerce-Performance-Analysis
+# Sterling E-Commerce Sales Performance Analysis
 
 ![](ecomm.jpg)
 
