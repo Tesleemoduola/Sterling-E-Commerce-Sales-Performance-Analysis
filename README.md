@@ -1,7 +1,7 @@
 # Sterling-E-Commerce-Performance-Analysis
 
 
-![](commerce.jpg)
+![](ecomm.jpg)
 
 
 ## Table of Contents
@@ -44,7 +44,7 @@ the table containing month numbers and paired them with their corresponding name
 
 ![](Dashboard1Sterl.jpg)
 
-![](Dashboard2Serl.jpg)
+![](Dashboard2Sterl.jpg)
 
 ## Conclusion
 The examination of FutureTale Hotel booking data reveals critical insights into booking and cancellation trends. The significant rise in cancellation rates between 2017 and 2018 underscores the need 
